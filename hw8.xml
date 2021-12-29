@@ -1,0 +1,33 @@
+<?xml version"1.0" ?>
+<students>
+    <student>
+        <firstName>Raymond</firstName>
+        <lastName>Chen</lastName>
+        <overall>95.65</overall
+    </student>
+    <student>
+        <firstName>Jane</firstName>
+        <lastName>Doe</lastName>
+        <overall>96.90</overall
+    </student>
+    <student>
+        <firstName>John</firstName>
+        <lastName>Doe</lastName>
+        <overall>89.40</overall
+    </student>
+    <student>
+        <firstName>Bill</firstName>
+        <lastName>Gates</lastName>
+        <overall>94.40</overall
+    </student>
+    <student>
+        <firstName>Ada</firstName>
+        <lastName>Lovelace</lastName>
+        <overall>97.50</overall
+    </student>
+    <student>
+        <firstName>Eric</firstName>
+        <lastName>Raymond</lastName>
+        <overall>91.90</overall
+    </student>
+</students>
